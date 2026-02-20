@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    padding: 10px;
+
+}
+
+.section-header nav a {
+    text-decoration: none;
+    color: white;
+    gap: 10px;
+    margin-right: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 19px;
+}
+
+
+.section-header nav {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 70px;
+}
+
+.main-div {
+    height: 100vh;
+    background-image: url(./main.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pepsi-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+    padding: 290px;
+}
+
+.pepsi-text h1 {
+    font-size: 75px;
+    color: white;
+}
+
+.pepsi-text p {
+    font-size: 15px;
+    color: white;
+}
+
+.div-btn button {
+    border: 1px solid white;
+    background-color: blue;
+    padding:14px 30px;
+    color: white;
+    border-radius: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:16px;
+}
+
+.div-hr {
+    color: white;
+    height: 5px;
+}
+
+
+.div-btn {
+    padding-top: 25px;
+}
