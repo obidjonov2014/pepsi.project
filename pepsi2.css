@@ -1,8 +1,72 @@
 .div-video {
     margin-left: 450px;
-    padding: 85px;
+    padding: 95px;
 }
 
 #section2 {
     background-color: black;
 }
+
+.div-body h1 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+    margin-left: 670px;
+}
+
+.div-pepsi-img {
+    margin-left: 260px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.div-pepsi-img h1 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+.div-btn2 button {
+    border: 1px solid blue;
+    background-color: blue;
+    padding: 17px 40px;
+    color: white;
+    border-radius: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+.div-pepsi-img {
+    margin-left: 260px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.div-pepsi-img h1 {
+
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+.div-btn2 button {
+    border: 1px solid blue;
+    background-color: blue;
+    padding: 17px 40px;
+    color: white;
+    border-radius: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+
+.main-div2 {
+    padding: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right:500px;
+}
+
+
+
