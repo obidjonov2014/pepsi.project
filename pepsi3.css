@@ -38,23 +38,6 @@
     border-radius: 7%;
 }
 
-.div-btn1 button {
-    padding: 10px 12px;
-    background-color: green;
-    color: white;
-    font-size: 70px;
-    border: 1px solid green;
-    border-radius: 45%;
-}
-
-.div-btn5 button {
-    padding: 10px 12px;
-    background-color: green;
-    color: white;
-    font-size: 70px;
-    border: 1px solid green;
-    border-radius: 45%;
-}
 
 .div-hr2 hr {
     background-color: white;
@@ -65,27 +48,20 @@
     background-color: black;
 }
 
-.div-text-1 h1 {
+.div-text-1 {
     color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-.div-text-2 h1 {
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-.div-text-main {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding-bottom: 10px;
-    margin-left: 550px;
-    gap: 150px;
+    margin-left: 800px;
+    padding-bottom: 40px;
 }
 
-.div-img-logo {
-    margin-left: 200px;
-    padding-top: 80px;
+.div-text-1 ul  {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:15px;
+    display: flex;
+    gap: 60px;
 }
+
+
 
 .diiv-hr-6 hr {
     background-color: white;
@@ -103,10 +79,18 @@
     margin-left: 840px;
 }
 
-.div-img-sticker {
-    margin-left: 177px;
+.div-img-logo {
+    margin-left: 200px;
+   padding-top: 45px;
 }
 
+.div-small small {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 
+}
 
-
+.div-small {
+    margin-left: 150px;
+    padding-top: 30px;
+}
